@@ -1,47 +1,47 @@
-# .{project name}
+# .{Helthspy / Espionage for Uteruses / Mota / Tree-lover App / Clicktoris / Treaderus / Docspy / Docspee / Drlbow / Lemonaid / SYMPLIST!!!}
 
-_{one sentence [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)}_
+_{A modular app that allows you to control what aspects of your health you track, with each module being fully customized to that item}_
 
 ## Features
 
-* {feature 1}
-* {feature 2}
-* {feature 3}
+* {Basic information, exportable and importable module data (CSV file?)}
+* {Privacy first - information is behind maybe authentication or some such}
+* {Customizable layout - ability to view module by module or the entire package at once}
 
 ---
 
 ## Story
 
 ### who
-* {who will use the app?}
-* {management, customers, employees, etc}
+* {Womxn, mxn, other ethereal beings}
+* {People with health disorders that require management}
 
 ### what
-_{copy from elevator pitch above}_
+_{A modular app that allows you to control what aspects of your health you track, with each module being fully customized to that item}_
 
-{expand into idea, no more than 3 sentences}
+{The app will be fully customizable and have the ability for people to create or edit their modules. Modules will be available in open source code through github. The users will be able to edit it without coding knowledge.}
 
 
 ### where
-* {where will it be used?}
-* {at home, at the park, grocery shopping}
+* {Exclusively on the mobile phone}
+* {In private}
 
 ### when
-* {when will it be used?}
-* {at night, when hungry, if tired}
+* {When symptoms happen}
+* {At home}
 
 ### how
-* {how will users interact with it?}
-* {QR scanning, mobile app, desktop}
+* {Interact with mobile phone}
+* {Ability to export into raw data}
 
 ---
 
 ## MVP
 > :bulb: **Minimum Viable Product** _what features are needed for it to fulfill its basic purpose_
 
-* {big feature}
-* {big feature}
-* {small feature}
+* {Importability/Exportability}
+* {Privacy}
+* {Links to github for other modules}
 
 ## V2
 > :pencil: **Bug squashing and some cleanup** _check with users to see what can improve_
